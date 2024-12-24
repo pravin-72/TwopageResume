@@ -27,6 +27,6 @@ View the live version of my resume here:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd basic-resume
+   cd TwopageResume
    ```
 3. Open the `index.html` file in your browser to view it locally.
